@@ -1,0 +1,6 @@
+C:\Users\Анна\source\repos\MouseHookDLL\bin\Debug\MouseHookDLL.dll
+C:\Users\Анна\source\repos\MouseHookDLL\bin\Debug\MouseHookDLL.pdb
+C:\Users\Анна\source\repos\MouseHookDLL\obj\Debug\MouseHookDLL.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\MouseHookDLL\obj\Debug\MouseHookDLL.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\MouseHookDLL\obj\Debug\MouseHookDLL.dll
+C:\Users\Анна\source\repos\MouseHookDLL\obj\Debug\MouseHookDLL.pdb
