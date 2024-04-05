@@ -1,0 +1,6 @@
+C:\Users\Анна\source\repos\KeyboardHookDLL\bin\Debug\KeyboardHookDLL.dll
+C:\Users\Анна\source\repos\KeyboardHookDLL\bin\Debug\KeyboardHookDLL.pdb
+C:\Users\Анна\source\repos\KeyboardHookDLL\obj\Debug\KeyboardHookDLL.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\KeyboardHookDLL\obj\Debug\KeyboardHookDLL.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\KeyboardHookDLL\obj\Debug\KeyboardHookDLL.dll
+C:\Users\Анна\source\repos\KeyboardHookDLL\obj\Debug\KeyboardHookDLL.pdb
